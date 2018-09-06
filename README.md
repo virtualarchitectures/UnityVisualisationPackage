@@ -7,4 +7,4 @@ Many of these scripts were also used in my sessions teaching Unity to students o
 
 Scripts include:
 
-MouseOrbitImproved - A camera controller neabling the user to rotate around an object and zoom in and out.
+**MouseOrbitImproved** - A camera controller neabling the user to rotate around an object and zoom in and out.
