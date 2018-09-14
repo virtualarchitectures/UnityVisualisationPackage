@@ -8,3 +8,7 @@ Many of these scripts were also used in my sessions teaching Unity to students o
 Scripts include:
 
 **MouseOrbitImproved** - A camera controller enabling the user to rotate around a central pivot and zoom in and out.
+
+**DateTime4UI** - Displays the current date and time in standard Unity UI or Text Mesh Pro text elements.
+
+See the associated folder for further information about each script.
